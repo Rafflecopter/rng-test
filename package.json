@@ -1,0 +1,25 @@
+{
+  "name": "rng-test",
+  "version": "0.0.0",
+  "description": "a small RNG test script",
+  "main": "test.js",
+  "dependencies": {
+    "imagejs": "0.0.9",
+    "mersennetwister": "^0.2.3",
+    "xorshift": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rafflecopter/rng-test.git"
+  },
+  "author": "Justin Ratner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rafflecopter/rng-test/issues"
+  },
+  "homepage": "https://github.com/Rafflecopter/rng-test#readme"
+}
